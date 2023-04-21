@@ -2,7 +2,7 @@ public class Rectangle
 {
   private int height;
   private int width;
-  public Rectangle(int theHeight; int theWidth)
+  public Rectangle(int theHeight, int theWidth)
   {
     height = theHeight;
     width = theWidth;
